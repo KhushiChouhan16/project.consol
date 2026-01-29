@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Streamlit
+.streamlit/
+
+# Uploaded PDFs
+uploads/
+
+# Chroma / Vector DB
+vectorstore/
+vectorstore_*/
+
+# Database files
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
